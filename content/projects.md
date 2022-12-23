@@ -3,13 +3,13 @@ title =  "Projects"
 in_search_index = true
 +++
 
-[esphome](/pages/esphome)
+[github 404 github.io/pages/esphome](/pages/esphome)
 
-[esphome2](@/links.md)
+[welcome blog/pages/esphome/](@/pages/esphome/_index.md)
 
-[esphome3](@/pages/esphome/_index.md)
+[links](@/links.md)
 
-[esphome4](pages/esphome)
+[esphome 404 page at blog/projects/pages/esphome note projects ](pages/esphome)
 
-[esphome5](pages/esphome/)
+[esphome 404 same as above wrong projects](pages/esphome/)
 

@@ -5,7 +5,11 @@ in_search_index = true
 
 [github 404 github.io/pages/esphome](/pages/esphome)
 
-[welcome blog/pages/esphome/](@/pages/esphome/_index.md)
+\[welcome blog/pages/esphome/\]\(@/pages/esphome/_index.md\)
+
+\[welcome blog/pages/esphome\]\(@/pages/esphome\)
+
+\[welcome blog/pages/esphome/\]\(@/pages/esphome/\)
 
 [links](@/links.md)
 

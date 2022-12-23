@@ -83,14 +83,11 @@ menu_items = [
     #{ name = "tags", url = "$BASE_URL/tags"},
     { name = "Tags", url = "$BASE_URL/tags/" },
 
-    { name = "Causes", url = "$BASE_URL/causes/" },
+    { name = "Causes", url = "$BASE_URL/links/" },
     { name = "Contact/About me", url = "$BASE_URL/about" },
 
     # set newtab to true to make the link open in new tab
     { name = "github", url = "https://github.com/aniewoehner", newtab = true},
-
-    # other
-    { name = "NWS weather", url = "https://weather.gov", newtab = true},
 ]
 
 # terminimal theme -- did not set up pagination
@@ -102,7 +99,7 @@ default_language = "en"
 use_full_hack_font = true
 
 # terminimal theme - favicon URL, should point to file located in site 'static' directory
-favicon = "/favicon-32x32.png"
+favicon = "favicon-32x32.png"
 # terminimal theme - favicon mimetype, defaults to "image/x-icon"
 favicon_mimetype = "image/png"
 

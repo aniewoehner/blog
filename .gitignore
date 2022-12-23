@@ -1,1 +1,5 @@
+# Ignore the public directory created by Zola to contain the output
 public
+
+# temporary
+crap

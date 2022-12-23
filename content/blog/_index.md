@@ -12,7 +12,7 @@ sort_by = "date"
 
 # Used by the parent section to order its subsections.
 # Lower values have higher priority.
-weight = 0
+weight = 1
 
 # Template to use to render this section page.
 template = "blog.html"

@@ -1,6 +1,6 @@
 +++
 
-title = "pages"
+title = "Pages"
 
 description = "pages description"
 

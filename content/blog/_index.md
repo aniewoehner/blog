@@ -15,7 +15,7 @@ sort_by = "date"
 weight = 0
 
 # Template to use to render this section page.
-template = "section.html"
+template = "blog.html"
 
 # The given template is applied to ALL pages below the section, recursively.
 # If you have several nested sections, each with a page_template set, the page

@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+	<title>a n title</title>
+	<subtitle>a n description</subtitle>
+	<link href="https://aniewoehner.github.io/blog/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://aniewoehner.github.io/blog"/>
+	<generator uri="https://www.getzola.org/">Zola</generator>
+	<updated>2022-12-20T00:00:00+00:00</updated>
+	<id>https://aniewoehner.github.io/blog/atom.xml</id>
+	<entry xml:lang="en">
+		<title>2022-12-20</title>
+		<published>2022-12-20T00:00:00+00:00</published>
+		<updated>2022-12-20T00:00:00+00:00</updated>
+		<link rel="alternate" href="https://aniewoehner.github.io/blog/blog/2022-12-20/" type="text/html"/>
+		<id>https://aniewoehner.github.io/blog/blog/2022-12-20/</id>
+		<content type="html">&lt;p&gt;Battery&lt;&#x2F;p&gt;
+&lt;p&gt;capacity == amperes * hours, units A.h, == &amp;quot;C&amp;quot;
+e.g. 100 A * 1 hour = 100 A.h == 1.0 C&lt;&#x2F;p&gt;
+&lt;p&gt;ratings are over a 20 hour interval&lt;&#x2F;p&gt;
+&lt;p&gt;RC == reserve capacity == discharge time, in minutes, that a battery will discharge at a 25 A rate, to 10.5 V
+implies lead acid&lt;&#x2F;p&gt;
+&lt;p&gt;typical group 27 battery&lt;&#x2F;p&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;whatever&lt;&#x2F;th&gt;&lt;th&gt;1&lt;&#x2F;th&gt;&lt;th&gt;2&lt;&#x2F;th&gt;&lt;th&gt;3&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;current (A)&lt;&#x2F;td&gt;&lt;td&gt;75&lt;&#x2F;td&gt;&lt;td&gt;56&lt;&#x2F;td&gt;&lt;td&gt;25&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;minutes&lt;&#x2F;td&gt;&lt;td&gt;52&lt;&#x2F;td&gt;&lt;td&gt;73&lt;&#x2F;td&gt;&lt;td&gt;185&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;p&gt;solar &#x2F; photovoltaic connector
+phoenix contact sunclix are completely toolless
+mc4 &#x2F; multi-contact, 4mm is the standard, there are clones
+multicontact is&#x2F;was the make, now staubli
+interlock prevents accidental disconnect
+main housing, crimp terminal contact, rubber seal, seal retainer, screw on end cap
+&amp;quot;safety lock clip&amp;quot; version covers the interlock tabs, requires additional tool
+crimp tool should have swing out contact holder
+stranded #10 wire NEC 690 USE-2
+https:&#x2F;&#x2F;ec.staubli.com&#x2F;products&#x2F;original.php
+no formal standard but female plug is usu positive&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>2022-12-20</title>
+		<published>2022-12-20T00:00:00+00:00</published>
+		<updated>2022-12-20T00:00:00+00:00</updated>
+		<link rel="alternate" href="https://aniewoehner.github.io/blog/blog/2022-12-21/" type="text/html"/>
+		<id>https://aniewoehner.github.io/blog/blog/2022-12-21/</id>
+		<content type="html">&lt;p&gt;Battery&lt;&#x2F;p&gt;
+&lt;p&gt;capacity == amperes * hours, units A.h, == &amp;quot;C&amp;quot;
+e.g. 100 A * 1 hour = 100 A.h == 1.0 C&lt;&#x2F;p&gt;
+&lt;p&gt;ratings are over a 20 hour interval&lt;&#x2F;p&gt;
+&lt;p&gt;RC == reserve capacity == discharge time, in minutes, that a battery will discharge at a 25 A rate, to 10.5 V
+implies lead acid&lt;&#x2F;p&gt;
+&lt;p&gt;typical group 27 battery&lt;&#x2F;p&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;whatever&lt;&#x2F;th&gt;&lt;th&gt;1&lt;&#x2F;th&gt;&lt;th&gt;2&lt;&#x2F;th&gt;&lt;th&gt;3&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;current (A)&lt;&#x2F;td&gt;&lt;td&gt;75&lt;&#x2F;td&gt;&lt;td&gt;56&lt;&#x2F;td&gt;&lt;td&gt;25&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;minutes&lt;&#x2F;td&gt;&lt;td&gt;52&lt;&#x2F;td&gt;&lt;td&gt;73&lt;&#x2F;td&gt;&lt;td&gt;185&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;p&gt;solar &#x2F; photovoltaic connector
+phoenix contact sunclix are completely toolless
+mc4 &#x2F; multi-contact, 4mm is the standard, there are clones
+multicontact is&#x2F;was the make, now staubli
+interlock prevents accidental disconnect
+main housing, crimp terminal contact, rubber seal, seal retainer, screw on end cap
+&amp;quot;safety lock clip&amp;quot; version covers the interlock tabs, requires additional tool
+crimp tool should have swing out contact holder
+stranded #10 wire NEC 690 USE-2
+https:&#x2F;&#x2F;ec.staubli.com&#x2F;products&#x2F;original.php
+no formal standard but female plug is usu positive&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>esp32-c3</title>
+		<published>2022-12-12T00:00:00+00:00</published>
+		<updated>2022-12-12T00:00:00+00:00</updated>
+		<link rel="alternate" href="https://aniewoehner.github.io/blog/pages/esphome/config/esp32-c3/" type="text/html"/>
+		<id>https://aniewoehner.github.io/blog/pages/esphome/config/esp32-c3/</id>
+		<content type="html">&lt;p&gt;esp32-c3&lt;&#x2F;p&gt;
+&lt;pre data-lang=&quot;yaml&quot; style=&quot;background-color:#151515;color:#e8e8d3;&quot; class=&quot;language-yaml &quot;&gt;&lt;code class=&quot;language-yaml&quot; data-lang=&quot;yaml&quot;&gt;&lt;span style=&quot;color:#ffb964;&quot;&gt;esphome&lt;&#x2F;span&gt;&lt;span&gt;:
+&lt;&#x2F;span&gt;&lt;span&gt;  &lt;&#x2F;span&gt;&lt;span style=&quot;color:#ffb964;&quot;&gt;name&lt;&#x2F;span&gt;&lt;span&gt;: &lt;&#x2F;span&gt;&lt;span style=&quot;color:#99ad6a;&quot;&gt;test
+&lt;&#x2F;span&gt;&lt;span&gt;  &lt;&#x2F;span&gt;&lt;span style=&quot;color:#ffb964;&quot;&gt;platform&lt;&#x2F;span&gt;&lt;span&gt;: &lt;&#x2F;span&gt;&lt;span style=&quot;color:#99ad6a;&quot;&gt;ESP32
+&lt;&#x2F;span&gt;&lt;span&gt;  &lt;&#x2F;span&gt;&lt;span style=&quot;color:#ffb964;&quot;&gt;board&lt;&#x2F;span&gt;&lt;span&gt;: &lt;&#x2F;span&gt;&lt;span style=&quot;color:#99ad6a;&quot;&gt;esp32dev
+&lt;&#x2F;span&gt;&lt;span&gt;  &lt;&#x2F;span&gt;&lt;span style=&quot;color:#ffb964;&quot;&gt;platformio_options&lt;&#x2F;span&gt;&lt;span&gt;:
+&lt;&#x2F;span&gt;&lt;span&gt;    &lt;&#x2F;span&gt;&lt;span style=&quot;color:#ffb964;&quot;&gt;platform&lt;&#x2F;span&gt;&lt;span&gt;: &lt;&#x2F;span&gt;&lt;span style=&quot;color:#99ad6a;&quot;&gt;espressif32
+&lt;&#x2F;span&gt;&lt;span&gt;    &lt;&#x2F;span&gt;&lt;span style=&quot;color:#ffb964;&quot;&gt;board&lt;&#x2F;span&gt;&lt;span&gt;: &lt;&#x2F;span&gt;&lt;span style=&quot;color:#99ad6a;&quot;&gt;esp32-c3-devkitm-1
+&lt;&#x2F;span&gt;&lt;span&gt;    &lt;&#x2F;span&gt;&lt;span style=&quot;color:#ffb964;&quot;&gt;board_build.mcu&lt;&#x2F;span&gt;&lt;span&gt;: &lt;&#x2F;span&gt;&lt;span style=&quot;color:#99ad6a;&quot;&gt;esp32c3
+&lt;&#x2F;span&gt;&lt;span&gt;    &lt;&#x2F;span&gt;&lt;span style=&quot;color:#ffb964;&quot;&gt;board_build.f_cpu&lt;&#x2F;span&gt;&lt;span&gt;: &lt;&#x2F;span&gt;&lt;span style=&quot;color:#99ad6a;&quot;&gt;160000000L
+&lt;&#x2F;span&gt;&lt;span&gt;    &lt;&#x2F;span&gt;&lt;span style=&quot;color:#ffb964;&quot;&gt;upload_protocol&lt;&#x2F;span&gt;&lt;span&gt;: &lt;&#x2F;span&gt;&lt;span style=&quot;color:#99ad6a;&quot;&gt;esptool
+&lt;&#x2F;span&gt;&lt;span&gt;    &lt;&#x2F;span&gt;&lt;span style=&quot;color:#ffb964;&quot;&gt;build_flags&lt;&#x2F;span&gt;&lt;span&gt;:
+&lt;&#x2F;span&gt;&lt;span&gt;      - &lt;&#x2F;span&gt;&lt;span style=&quot;color:#99ad6a;&quot;&gt;-D PIO_FRAMEWORK_ARDUINO_ENABLE_CDC
+&lt;&#x2F;span&gt;&lt;span&gt;      - &lt;&#x2F;span&gt;&lt;span style=&quot;color:#99ad6a;&quot;&gt;-D USBCON
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>lolin c3</title>
+		<published>2022-12-12T00:00:00+00:00</published>
+		<updated>2022-12-12T00:00:00+00:00</updated>
+		<link rel="alternate" href="https://aniewoehner.github.io/blog/pages/esphome/config/lolin-c3/" type="text/html"/>
+		<id>https://aniewoehner.github.io/blog/pages/esphome/config/lolin-c3/</id>
+		<content type="html">&lt;p&gt;lolin c3&lt;&#x2F;p&gt;
+&lt;pre data-lang=&quot;yaml&quot; style=&quot;background-color:#151515;color:#e8e8d3;&quot; class=&quot;language-yaml &quot;&gt;&lt;code class=&quot;language-yaml&quot; data-lang=&quot;yaml&quot;&gt;&lt;span style=&quot;color:#ffb964;&quot;&gt;esphome&lt;&#x2F;span&gt;&lt;span&gt;:
+&lt;&#x2F;span&gt;&lt;span&gt;  &lt;&#x2F;span&gt;&lt;span style=&quot;color:#ffb964;&quot;&gt;name&lt;&#x2F;span&gt;&lt;span&gt;: &lt;&#x2F;span&gt;&lt;span style=&quot;color:#99ad6a;&quot;&gt;lolin-c3-1_0_0
+&lt;&#x2F;span&gt;&lt;span&gt;  &lt;&#x2F;span&gt;&lt;span style=&quot;color:#ffb964;&quot;&gt;platformio_options&lt;&#x2F;span&gt;&lt;span&gt;:
+&lt;&#x2F;span&gt;&lt;span&gt;    &lt;&#x2F;span&gt;&lt;span style=&quot;color:#ffb964;&quot;&gt;board_build.flash_mode&lt;&#x2F;span&gt;&lt;span&gt;: &lt;&#x2F;span&gt;&lt;span style=&quot;color:#99ad6a;&quot;&gt;dio
+&lt;&#x2F;span&gt;&lt;span&gt;
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ffb964;&quot;&gt;esp32&lt;&#x2F;span&gt;&lt;span&gt;:
+&lt;&#x2F;span&gt;&lt;span&gt;  &lt;&#x2F;span&gt;&lt;span style=&quot;color:#ffb964;&quot;&gt;board&lt;&#x2F;span&gt;&lt;span&gt;: &lt;&#x2F;span&gt;&lt;span style=&quot;color:#99ad6a;&quot;&gt;esp32-c3-devkitm-1
+&lt;&#x2F;span&gt;&lt;span&gt;  &lt;&#x2F;span&gt;&lt;span style=&quot;color:#ffb964;&quot;&gt;variant&lt;&#x2F;span&gt;&lt;span&gt;: &lt;&#x2F;span&gt;&lt;span style=&quot;color:#99ad6a;&quot;&gt;ESP32C3
+&lt;&#x2F;span&gt;&lt;span&gt;  &lt;&#x2F;span&gt;&lt;span style=&quot;color:#ffb964;&quot;&gt;framework&lt;&#x2F;span&gt;&lt;span&gt;:
+&lt;&#x2F;span&gt;&lt;span&gt;    &lt;&#x2F;span&gt;&lt;span style=&quot;color:#ffb964;&quot;&gt;type&lt;&#x2F;span&gt;&lt;span&gt;: &lt;&#x2F;span&gt;&lt;span style=&quot;color:#99ad6a;&quot;&gt;esp-idf
+&lt;&#x2F;span&gt;&lt;span&gt;    &lt;&#x2F;span&gt;&lt;span style=&quot;color:#ffb964;&quot;&gt;sdkconfig_options&lt;&#x2F;span&gt;&lt;span&gt;:
+&lt;&#x2F;span&gt;&lt;span&gt;      &lt;&#x2F;span&gt;&lt;span style=&quot;color:#ffb964;&quot;&gt;CONFIG_ESP_TASK_WDT_TIMEOUT_S&lt;&#x2F;span&gt;&lt;span&gt;: &lt;&#x2F;span&gt;&lt;span style=&quot;color:#556633;&quot;&gt;&amp;quot;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#99ad6a;&quot;&gt;10&lt;&#x2F;span&gt;&lt;span style=&quot;color:#556633;&quot;&gt;&amp;quot;
+&lt;&#x2F;span&gt;&lt;span&gt;      &lt;&#x2F;span&gt;&lt;span style=&quot;color:#ffb964;&quot;&gt;CONFIG_BT_BLE_50_FEATURES_SUPPORTED&lt;&#x2F;span&gt;&lt;span&gt;: y
+&lt;&#x2F;span&gt;&lt;span&gt;      &lt;&#x2F;span&gt;&lt;span style=&quot;color:#ffb964;&quot;&gt;CONFIG_BT_BLE_42_FEATURES_SUPPORTED&lt;&#x2F;span&gt;&lt;span&gt;: y
+&lt;&#x2F;span&gt;&lt;span&gt;
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ffb964;&quot;&gt;wifi&lt;&#x2F;span&gt;&lt;span&gt;:
+&lt;&#x2F;span&gt;&lt;span&gt;  &lt;&#x2F;span&gt;&lt;span style=&quot;color:#ffb964;&quot;&gt;ssid&lt;&#x2F;span&gt;&lt;span&gt;: &lt;&#x2F;span&gt;&lt;span style=&quot;color:#8fbfdc;&quot;&gt;!secret &lt;&#x2F;span&gt;&lt;span style=&quot;color:#99ad6a;&quot;&gt;wifi_ssid
+&lt;&#x2F;span&gt;&lt;span&gt;  &lt;&#x2F;span&gt;&lt;span style=&quot;color:#ffb964;&quot;&gt;password&lt;&#x2F;span&gt;&lt;span&gt;: &lt;&#x2F;span&gt;&lt;span style=&quot;color:#8fbfdc;&quot;&gt;!secret &lt;&#x2F;span&gt;&lt;span style=&quot;color:#99ad6a;&quot;&gt;wifi_password
+&lt;&#x2F;span&gt;&lt;span&gt;  &lt;&#x2F;span&gt;&lt;span style=&quot;color:#ffb964;&quot;&gt;output_power&lt;&#x2F;span&gt;&lt;span&gt;: &lt;&#x2F;span&gt;&lt;span style=&quot;color:#cf6a4c;&quot;&gt;8.5  &lt;&#x2F;span&gt;&lt;span style=&quot;color:#888888;&quot;&gt;# will result in a bootloop otherwise
+&lt;&#x2F;span&gt;&lt;span&gt;
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ffb964;&quot;&gt;esp32_ble_tracker&lt;&#x2F;span&gt;&lt;span&gt;:
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#888888;&quot;&gt;# bluetooth_proxy:  will result in a non reactive state
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>lolin s2 mini</title>
+		<published>2022-12-12T00:00:00+00:00</published>
+		<updated>2022-12-12T00:00:00+00:00</updated>
+		<link rel="alternate" href="https://aniewoehner.github.io/blog/pages/esphome/config/lolin-s2-mini/" type="text/html"/>
+		<id>https://aniewoehner.github.io/blog/pages/esphome/config/lolin-s2-mini/</id>
+		<content type="html">&lt;p&gt;lolin s2 mini&lt;&#x2F;p&gt;
+&lt;pre data-lang=&quot;yaml&quot; style=&quot;background-color:#151515;color:#e8e8d3;&quot; class=&quot;language-yaml &quot;&gt;&lt;code class=&quot;language-yaml&quot; data-lang=&quot;yaml&quot;&gt;&lt;span style=&quot;color:#ffb964;&quot;&gt;esphome&lt;&#x2F;span&gt;&lt;span&gt;:
+&lt;&#x2F;span&gt;&lt;span&gt;  &lt;&#x2F;span&gt;&lt;span style=&quot;color:#ffb964;&quot;&gt;name&lt;&#x2F;span&gt;&lt;span&gt;: &lt;&#x2F;span&gt;&lt;span style=&quot;color:#99ad6a;&quot;&gt;lolin-s2-1_0_0
+&lt;&#x2F;span&gt;&lt;span&gt;  &lt;&#x2F;span&gt;&lt;span style=&quot;color:#ffb964;&quot;&gt;platformio_options&lt;&#x2F;span&gt;&lt;span&gt;:   
+&lt;&#x2F;span&gt;&lt;span&gt;    &lt;&#x2F;span&gt;&lt;span style=&quot;color:#ffb964;&quot;&gt;board_build.mcu&lt;&#x2F;span&gt;&lt;span&gt;: &lt;&#x2F;span&gt;&lt;span style=&quot;color:#99ad6a;&quot;&gt;esp32s2
+&lt;&#x2F;span&gt;&lt;span&gt;
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ffb964;&quot;&gt;esp32&lt;&#x2F;span&gt;&lt;span&gt;:
+&lt;&#x2F;span&gt;&lt;span&gt;  &lt;&#x2F;span&gt;&lt;span style=&quot;color:#ffb964;&quot;&gt;board&lt;&#x2F;span&gt;&lt;span&gt;: &lt;&#x2F;span&gt;&lt;span style=&quot;color:#99ad6a;&quot;&gt;lolin_s2_mini
+&lt;&#x2F;span&gt;&lt;span&gt;  &lt;&#x2F;span&gt;&lt;span style=&quot;color:#ffb964;&quot;&gt;variant&lt;&#x2F;span&gt;&lt;span&gt;: &lt;&#x2F;span&gt;&lt;span style=&quot;color:#99ad6a;&quot;&gt;ESP32S2
+&lt;&#x2F;span&gt;&lt;span&gt;  &lt;&#x2F;span&gt;&lt;span style=&quot;color:#ffb964;&quot;&gt;framework&lt;&#x2F;span&gt;&lt;span&gt;:
+&lt;&#x2F;span&gt;&lt;span&gt;    &lt;&#x2F;span&gt;&lt;span style=&quot;color:#ffb964;&quot;&gt;type&lt;&#x2F;span&gt;&lt;span&gt;: &lt;&#x2F;span&gt;&lt;span style=&quot;color:#99ad6a;&quot;&gt;esp-idf
+&lt;&#x2F;span&gt;&lt;span&gt;    &lt;&#x2F;span&gt;&lt;span style=&quot;color:#ffb964;&quot;&gt;platform_version&lt;&#x2F;span&gt;&lt;span&gt;: &lt;&#x2F;span&gt;&lt;span style=&quot;color:#99ad6a;&quot;&gt;https:&#x2F;&#x2F;github.com&#x2F;jhamhader&#x2F;platform-espressif32#8bc085573e4f6986ffcda7050b9607739f3c6976
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>esp hardware</title>
+		<published>2022-12-12T00:00:00+00:00</published>
+		<updated>2022-12-12T00:00:00+00:00</updated>
+		<link rel="alternate" href="https://aniewoehner.github.io/blog/pages/esphome/esp-hardware/" type="text/html"/>
+		<id>https://aniewoehner.github.io/blog/pages/esphome/esp-hardware/</id>
+		<content type="html">&lt;p&gt;esp8266 vs esp32
+8266 has some advantages using unsecured access point, not going to do that
+for secured (WPAx) access point, esp32 has advantage&lt;&#x2F;p&gt;
+&lt;p&gt;ESP32 - 2016 - plain - Wi-Fi 4, bt 4.2 &lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;ESP32-C6 - 2021 - 32-bit RISC-V, 2.4 GHz Wi-Fi 6, Bt (LE) 5, IEEE 802.15.4, nothing found?&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;mini and wroom&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;ESP32-C3 - 2020 - 32-bit RISC-V &amp;lt;160MHz, 2.4 GHz Wi-Fi, Bt (LE) 5, 400 kB SRAM 384 kB ROM, spi&#x2F;qpi, $10 for one&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;mini and wroom&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;ESP32-C2 -  - 32-bit RISC-V &amp;lt;120MHz, 2.4 GHz Wi-Fi, Bt (LE) 5, 272 kB SRAM, 16kB cache, 576 kB ROM, nothing found?&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;mini and wroom&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;ESP32-S3 - 2020 - 32-bit LX7, 2.4 GHz Wi-Fi, Bt (LE) 5, 3 for $20&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;mini and wroom&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;ESP32-S2 - 2019 - 32-bit LX7, 2.4 GHz Wi-Fi, 3 for $15&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;mini and solo, wrover and wroom not rec for new design, &lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;supposedly S2 is much more energy efficient, adds a different camera interface&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;S2, C3, S3 have native USB, no need for usb-to-serial chip&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;RISC-V are lower cost&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;S3 is like updated ESP32, higher specs&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;WROOM - does not use the 2 GPIOs&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;WROVER - has 8MB SPI PSRAM chip + ESP32-D0WDQ6, 2 GPIOs used for the ram
+&lt;a href=&quot;https:&#x2F;&#x2F;www.espressif.com&#x2F;en&#x2F;products&#x2F;modulesmini&quot;&gt;https:&#x2F;&#x2F;www.espressif.com&#x2F;en&#x2F;products&#x2F;modulesmini&lt;&#x2F;a&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;docs.espressif.com&#x2F;projects&#x2F;esp-idf&#x2F;en&#x2F;latest&#x2F;hw-reference&#x2F;index.html&quot;&gt;https:&#x2F;&#x2F;docs.espressif.com&#x2F;projects&#x2F;esp-idf&#x2F;en&#x2F;latest&#x2F;hw-reference&#x2F;index.html&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h1 id=&quot;lolin&quot;&gt;lolin&lt;&#x2F;h1&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;DoHome ESP-C3 5.99&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.amazon.com&#x2F;DoHome-Development-Dual-Mode-Microcontroller-Integrated&#x2F;dp&#x2F;B09HC2SRNP&#x2F;&quot;&gt;https:&#x2F;&#x2F;www.amazon.com&#x2F;DoHome-Development-Dual-Mode-Microcontroller-Integrated&#x2F;dp&#x2F;B09HC2SRNP&#x2F;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;ESP-C3-12F $8.99&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.amazon.com&#x2F;JacobsParts-ESP-C3-12F-ESP32-C3-Bluetooth-Development&#x2F;dp&#x2F;B09B7Y2VKR&#x2F;&quot;&gt;https:&#x2F;&#x2F;www.amazon.com&#x2F;JacobsParts-ESP-C3-12F-ESP32-C3-Bluetooth-Development&#x2F;dp&#x2F;B09B7Y2VKR&#x2F;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;ESP32-C3-DevKitM-1 $8.00&lt;&#x2F;p&gt;
+&lt;p&gt;c3-mini-1-n4&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.amazon.com&#x2F;Espressif-ESP32-C3-DevKitM-1-Development-Board&#x2F;dp&#x2F;B08W2J9B8J&#x2F;&quot;&gt;https:&#x2F;&#x2F;www.amazon.com&#x2F;Espressif-ESP32-C3-DevKitM-1-Development-Board&#x2F;dp&#x2F;B08W2J9B8J&#x2F;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.mouser.com&#x2F;ProductDetail&#x2F;Espressif-Systems&#x2F;ESP32-C3-DevKitM-1?qs=pUKx8fyJudB1sOWbbEnGFw%3D%3D&quot;&gt;https:&#x2F;&#x2F;www.mouser.com&#x2F;ProductDetail&#x2F;Espressif-Systems&#x2F;ESP32-C3-DevKitM-1?qs=pUKx8fyJudB1sOWbbEnGFw%3D%3D&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;3x ESP32-C3-DevKitM-1 for 13.88&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.amazon.com&#x2F;Teyleten-Robot-ESP32-C3-DevKitM-1-Development-Bluetooth&#x2F;dp&#x2F;B0B6HT7L9L&#x2F;&quot;&gt;https:&#x2F;&#x2F;www.amazon.com&#x2F;Teyleten-Robot-ESP32-C3-DevKitM-1-Development-Bluetooth&#x2F;dp&#x2F;B0B6HT7L9L&#x2F;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;ESP32-C3-DevKitC-02 $8.00&lt;&#x2F;p&gt;
+&lt;p&gt;ESP32-C3-WROOM-02-N4&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.amazon.com&#x2F;Espressif-ESP32-C3-DevKitC-02-Development-Board&#x2F;dp&#x2F;B09D3S4RPZ&#x2F;&quot;&gt;https:&#x2F;&#x2F;www.amazon.com&#x2F;Espressif-ESP32-C3-DevKitC-02-Development-Board&#x2F;dp&#x2F;B09D3S4RPZ&#x2F;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.mouser.com&#x2F;ProductDetail&#x2F;Espressif-Systems&#x2F;ESP32-C3-DevKitC-02?qs=stqOd1AaK7%2F1Q62ysr4CMA%3D%3D&quot;&gt;https:&#x2F;&#x2F;www.mouser.com&#x2F;ProductDetail&#x2F;Espressif-Systems&#x2F;ESP32-C3-DevKitC-02?qs=stqOd1AaK7%2F1Q62ysr4CMA%3D%3D&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;ESP32-C3-DevKitC-02U $9.80&lt;&#x2F;p&gt;
+&lt;p&gt;ESP32-C3-WROOM-02U-N4&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.amazon.com&#x2F;Espressif-ESP32-C3-DevKitC-02U-Development-Board&#x2F;dp&#x2F;B09D3TGJGD&#x2F;&quot;&gt;https:&#x2F;&#x2F;www.amazon.com&#x2F;Espressif-ESP32-C3-DevKitC-02U-Development-Board&#x2F;dp&#x2F;B09D3TGJGD&#x2F;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.mouser.com&#x2F;ProductDetail&#x2F;Espressif-Systems&#x2F;ESP32-C3-DevKitC-02U?qs=Wj%2FVkw3K%252BMATroZS6qcRPw%3D%3D&quot;&gt;https:&#x2F;&#x2F;www.mouser.com&#x2F;ProductDetail&#x2F;Espressif-Systems&#x2F;ESP32-C3-DevKitC-02U?qs=Wj%2FVkw3K%252BMATroZS6qcRPw%3D%3D&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;ESP32-C3-DevKitM-1U $9.80&lt;&#x2F;p&gt;
+&lt;p&gt;https:&#x2F;&#x2F;www.amazon.com&#x2F;Espressif-ESP32-C3-DevKitM-1U-Development-Board&#x2F;dp&#x2F;B09D3THNXK&#x2F;ref=sr_1_10?keywords=ESP32-C3&amp;amp;link_code=qs&amp;amp;qid=1670587675&amp;amp;sourceid=Mozilla-search&amp;amp;sr=8-10
+https:&#x2F;&#x2F;www.mouser.com&#x2F;ProductDetail&#x2F;Espressif-Systems&#x2F;ESP32-C3-DevKitM-1U?qs=Wj%2FVkw3K%252BMBXW0wbfKCpog%3D%3D
+ESP32-C3-MINI-1U&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;s2 mini may not use esphome, may be waiting for esphome to catch up to platformio 4.3&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;s2 mini 2 for $13.99&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.amazon.com&#x2F;dp&#x2F;B0BBGKJNV5&quot;&gt;https:&#x2F;&#x2F;www.amazon.com&#x2F;dp&#x2F;B0BBGKJNV5&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;s2 mini hiletgo 3 for $15.49 &lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.amazon.com&#x2F;dp&#x2F;B0B291LZ99&quot;&gt;https:&#x2F;&#x2F;www.amazon.com&#x2F;dp&#x2F;B0B291LZ99&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;ESP32 S2 Mini ESP32-S2FN4R2 ESP32-S2 1 for 3 for 5 for $23.99&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.amazon.com&#x2F;dp&#x2F;B0B2ZWZWLW&quot;&gt;https:&#x2F;&#x2F;www.amazon.com&#x2F;dp&#x2F;B0B2ZWZWLW&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;s2 mini&lt;&#x2F;p&gt;
+&lt;p&gt;have to press 0 button, tap reset button in order to fire up cdc_acm serial port&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>esphome</title>
+		<published>2022-12-05T00:00:00+00:00</published>
+		<updated>2022-12-05T00:00:00+00:00</updated>
+		<link rel="alternate" href="https://aniewoehner.github.io/blog/pages/esphome/esphome/" type="text/html"/>
+		<id>https://aniewoehner.github.io/blog/pages/esphome/esphome/</id>
+		<content type="html">&lt;p&gt;framework for IoT using Espressif esp32 and&#x2F;or other similar hardware
+alternative framework:
+[[tasmota]]
+&lt;a href=&quot;&#x2F;tasmota&quot;&gt;tasmota&lt;&#x2F;a&gt;
+example of camera:
+[[zola_blog_content&#x2F;computer&#x2F;espcam]]
+&lt;a href=&quot;espcam&quot;&gt;espcam&lt;&#x2F;a&gt;
+&lt;a href=&quot;esp32-cam&quot;&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;why&quot;&gt;why&lt;&#x2F;h2&gt;
+&lt;p&gt;esphome replacing tasmota&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;allows better integration with home assistant&lt;&#x2F;li&gt;
+&lt;li&gt;allows actions that do not require the controller?&lt;&#x2F;li&gt;
+&lt;li&gt;builds using python&lt;&#x2F;li&gt;
+&lt;li&gt;next steps:&lt;&#x2F;li&gt;
+&lt;li&gt;newest esphome requires newer python than on renegade&#x2F;201
+&lt;ul&gt;
+&lt;li&gt;build firmware elsewhere&lt;&#x2F;li&gt;
+&lt;li&gt;possible to program from renegade&#x2F;201?&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;Can migrate between Tasmota and esphome, firmware is uploadable through the web interface
+&lt;ul&gt;
+&lt;li&gt;Insufficient space? Use the gzip version of the firmware.bin&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h1 id=&quot;building&quot;&gt;Building&lt;&#x2F;h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Use a python virtual environment to be able to maintain versions of libraries&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;pre data-lang=&quot;sh&quot; style=&quot;background-color:#151515;color:#e8e8d3;&quot; class=&quot;language-sh &quot;&gt;&lt;code class=&quot;language-sh&quot; data-lang=&quot;sh&quot;&gt;&lt;span style=&quot;color:#ffb964;&quot;&gt;python&lt;&#x2F;span&gt;&lt;span&gt; venv
+&lt;&#x2F;span&gt;&lt;span&gt;source py &#x2F;bin&#x2F;activate
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#8fbfdc;&quot;&gt;export &lt;&#x2F;span&gt;&lt;span style=&quot;color:#ffb964;&quot;&gt;PIP_CACHE_DIR&lt;&#x2F;span&gt;&lt;span&gt;=&amp;lt;path&amp;gt;
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ffb964;&quot;&gt;python3 -m&lt;&#x2F;span&gt;&lt;span&gt; pip install&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ffb964;&quot;&gt; --upgrade&lt;&#x2F;span&gt;&lt;span&gt; pip
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ffb964;&quot;&gt;python3 -m&lt;&#x2F;span&gt;&lt;span&gt; pip install&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ffb964;&quot;&gt; --upgrade&lt;&#x2F;span&gt;&lt;span&gt; wheel
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ffb964;&quot;&gt;PLATFORMIO_CORE_DIR&lt;&#x2F;span&gt;&lt;span&gt;=&lt;&#x2F;span&gt;&lt;span style=&quot;color:#99ad6a;&quot;&gt;$( pwd )&#x2F;dot_platformio
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#8fbfdc;&quot;&gt;export &lt;&#x2F;span&gt;&lt;span style=&quot;color:#ffb964;&quot;&gt;PLATFORMIO_CORE_DIR
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ffb964;&quot;&gt;mkdir -p &lt;&#x2F;span&gt;&lt;span&gt;${&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ffb964;&quot;&gt;PLATFORMIO_CORE_DIR&lt;&#x2F;span&gt;&lt;span&gt;}
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ffb964;&quot;&gt;python3 -m&lt;&#x2F;span&gt;&lt;span&gt; pip install&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ffb964;&quot;&gt; --upgrade&lt;&#x2F;span&gt;&lt;span&gt; esphome
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ffb964;&quot;&gt;this&lt;&#x2F;span&gt;&lt;span&gt; brings in platformio?
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ffb964;&quot;&gt;pio&lt;&#x2F;span&gt;&lt;span&gt; upgrade?
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;ul&gt;
+&lt;li&gt;Or container image&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;pre data-lang=&quot;sh&quot; style=&quot;background-color:#151515;color:#e8e8d3;&quot; class=&quot;language-sh &quot;&gt;&lt;code class=&quot;language-sh&quot; data-lang=&quot;sh&quot;&gt;&lt;span style=&quot;color:#ffb964;&quot;&gt;docker&lt;&#x2F;span&gt;&lt;span&gt; run&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ffb964;&quot;&gt; --rm --net&lt;&#x2F;span&gt;&lt;span&gt;=host&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ffb964;&quot;&gt; -v &lt;&#x2F;span&gt;&lt;span style=&quot;color:#556633;&quot;&gt;&amp;quot;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#99ad6a;&quot;&gt;${&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ffb964;&quot;&gt;PWD&lt;&#x2F;span&gt;&lt;span style=&quot;color:#99ad6a;&quot;&gt;}&lt;&#x2F;span&gt;&lt;span style=&quot;color:#556633;&quot;&gt;&amp;quot;&lt;&#x2F;span&gt;&lt;span&gt;:&#x2F;config&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ffb964;&quot;&gt; -it&lt;&#x2F;span&gt;&lt;span&gt; esphome&#x2F;esphome
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;ul&gt;
+&lt;li&gt;Start building a basic configuration yaml for a device by using the wizard&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;pre data-lang=&quot;sh&quot; style=&quot;background-color:#151515;color:#e8e8d3;&quot; class=&quot;language-sh &quot;&gt;&lt;code class=&quot;language-sh&quot; data-lang=&quot;sh&quot;&gt;&lt;span style=&quot;color:#ffb964;&quot;&gt;esphome&lt;&#x2F;span&gt;&lt;span&gt; wizard &amp;lt;devicename&amp;gt;.yaml
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Edit that yaml&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Build&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;pre data-lang=&quot;sh&quot; style=&quot;background-color:#151515;color:#e8e8d3;&quot; class=&quot;language-sh &quot;&gt;&lt;code class=&quot;language-sh&quot; data-lang=&quot;sh&quot;&gt;&lt;span style=&quot;color:#ffb964;&quot;&gt;esphome&lt;&#x2F;span&gt;&lt;span&gt; compile &amp;lt;&amp;gt;.yaml
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre style=&quot;background-color:#151515;color:#e8e8d3;&quot;&gt;&lt;code&gt;&lt;span&gt;- Older versions used esphome yaml compile
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;ul&gt;
+&lt;li&gt;Firmware produced will be in .&#x2F;.esphome&#x2F;build&#x2F;&lt;node&gt;&#x2F;.pioenvs&#x2F;&lt;node&gt;&#x2F;firmware.bin&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;esphome.io&#x2F;guides&#x2F;configuration-types.html#config-substitutions&quot;&gt;https:&#x2F;&#x2F;esphome.io&#x2F;guides&#x2F;configuration-types.html#config-substitutions&lt;&#x2F;a&gt;
+esphome config &amp;lt;&amp;gt;.yaml&lt;&#x2F;p&gt;
+&lt;pre data-lang=&quot;sh&quot; style=&quot;background-color:#151515;color:#e8e8d3;&quot; class=&quot;language-sh &quot;&gt;&lt;code class=&quot;language-sh&quot; data-lang=&quot;sh&quot;&gt;&lt;span style=&quot;color:#ffb964;&quot;&gt;sourc&lt;&#x2F;span&gt;&lt;span&gt; ed venv
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ffb964;&quot;&gt;python3 -m&lt;&#x2F;span&gt;&lt;span&gt; pip install&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ffb964;&quot;&gt; --upgrade&lt;&#x2F;span&gt;&lt;span&gt; pip
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ffb964;&quot;&gt;python3 -m&lt;&#x2F;span&gt;&lt;span&gt; pip install&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ffb964;&quot;&gt; --upgrade&lt;&#x2F;span&gt;&lt;span&gt; wheel
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ffb964;&quot;&gt;python3 -m&lt;&#x2F;span&gt;&lt;span&gt; pip install&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ffb964;&quot;&gt; --upgrade&lt;&#x2F;span&gt;&lt;span&gt; cryptography
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ffb964;&quot;&gt;python3 -m&lt;&#x2F;span&gt;&lt;span&gt; pip install&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ffb964;&quot;&gt; --upgrade&lt;&#x2F;span&gt;&lt;span&gt; esphome
+&lt;&#x2F;span&gt;&lt;span&gt;
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ffb964;&quot;&gt;esphome&lt;&#x2F;span&gt;&lt;span&gt; version
+&lt;&#x2F;span&gt;&lt;span&gt;
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ffb964;&quot;&gt;esphome&lt;&#x2F;span&gt;&lt;span&gt; wizard &amp;lt;&amp;gt;.yaml
+&lt;&#x2F;span&gt;&lt;span&gt;	&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ffb964;&quot;&gt;like&lt;&#x2F;span&gt;&lt;span&gt; device_name
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ffb964;&quot;&gt;esphome&lt;&#x2F;span&gt;&lt;span&gt; wizard sonoff_s31_01.yaml
+&lt;&#x2F;span&gt;&lt;span&gt;	&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ffb964;&quot;&gt;asks&lt;&#x2F;span&gt;&lt;span&gt; name, give it the same name
+&lt;&#x2F;span&gt;&lt;span&gt;	&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ffb964;&quot;&gt;esp8266&lt;&#x2F;span&gt;&lt;span&gt; platform for all sonoff?
+&lt;&#x2F;span&gt;&lt;span&gt;	&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ffb964;&quot;&gt;but&lt;&#x2F;span&gt;&lt;span&gt; then esp8285 board?
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;p&gt;serial console adapter for rock64
+default is 1.5M baud, why?
+3v3 signaling
+but some sort of problem prevents boot
+serial@ff13000&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;advanced-sensor-creation&quot;&gt;Advanced sensor creation&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;generally falls under the idea of template based sensor and follows home assistant&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;pre data-lang=&quot;yaml&quot; style=&quot;background-color:#151515;color:#e8e8d3;&quot; class=&quot;language-yaml &quot;&gt;&lt;code class=&quot;language-yaml&quot; data-lang=&quot;yaml&quot;&gt;&lt;span&gt;- &lt;&#x2F;span&gt;&lt;span style=&quot;color:#ffb964;&quot;&gt;platform&lt;&#x2F;span&gt;&lt;span&gt;: &lt;&#x2F;span&gt;&lt;span style=&quot;color:#99ad6a;&quot;&gt;template
+&lt;&#x2F;span&gt;&lt;span&gt;  &lt;&#x2F;span&gt;&lt;span style=&quot;color:#ffb964;&quot;&gt;sensors&lt;&#x2F;span&gt;&lt;span&gt;:
+&lt;&#x2F;span&gt;&lt;span&gt;    &lt;&#x2F;span&gt;&lt;span style=&quot;color:#ffb964;&quot;&gt;something_state&lt;&#x2F;span&gt;&lt;span&gt;:
+&lt;&#x2F;span&gt;&lt;span&gt;      &lt;&#x2F;span&gt;&lt;span style=&quot;color:#ffb964;&quot;&gt;friendly_name&lt;&#x2F;span&gt;&lt;span&gt;: &lt;&#x2F;span&gt;&lt;span style=&quot;color:#99ad6a;&quot;&gt;something_status
+&lt;&#x2F;span&gt;&lt;span&gt;      &lt;&#x2F;span&gt;&lt;span style=&quot;color:#ffb964;&quot;&gt;value_template&lt;&#x2F;span&gt;&lt;span&gt;: &lt;&#x2F;span&gt;&lt;span style=&quot;color:#8fbfdc;&quot;&gt;&amp;gt;-
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#99ad6a;&quot;&gt;      {% if
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#99ad6a;&quot;&gt;      (states()|int &amp;gt;= 5 and (as_timestamp(now())-(as_timestamp(states))))
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#99ad6a;&quot;&gt;      %}
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#99ad6a;&quot;&gt;        on
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#99ad6a;&quot;&gt;      {% else %}
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#99ad6a;&quot;&gt;        off
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#99ad6a;&quot;&gt;      {% endif %}
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+</content>
+	</entry>
+</feed>
